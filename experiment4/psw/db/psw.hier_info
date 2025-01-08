@@ -1,7 +1,0 @@
-|psw
-clk => gf~reg0.CLK
-g => gf~reg0.DATAIN
-g_en => gf~reg0.ENA
-gf <= gf~reg0.DB_MAX_OUTPUT_PORT_TYPE
-
-
