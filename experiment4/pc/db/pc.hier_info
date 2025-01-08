@@ -1,0 +1,31 @@
+|pc
+ld_pc => always0~1.IN1
+ld_pc => always0~0.IN1
+in_pc => always0~0.IN0
+in_pc => always0~1.IN0
+clk => c[7]~reg0.CLK
+clk => c[6]~reg0.CLK
+clk => c[5]~reg0.CLK
+clk => c[4]~reg0.CLK
+clk => c[3]~reg0.CLK
+clk => c[2]~reg0.CLK
+clk => c[1]~reg0.CLK
+clk => c[0]~reg0.CLK
+a[0] => c~7.DATAB
+a[1] => c~6.DATAB
+a[2] => c~5.DATAB
+a[3] => c~4.DATAB
+a[4] => c~3.DATAB
+a[5] => c~2.DATAB
+a[6] => c~1.DATAB
+a[7] => c~0.DATAB
+c[0] <= c[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+c[1] <= c[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+c[2] <= c[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+c[3] <= c[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+c[4] <= c[4]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+c[5] <= c[5]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+c[6] <= c[6]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+c[7] <= c[7]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
