@@ -1,0 +1,17 @@
+<internal_error>
+	<executable>quartus.exe</executable>
+	<sub_system>unknown</sub_system>
+	<file>unknown</file>
+	<line>0</line>
+	<callstack>
+	0x6f422e74:
+	0x0b6f031a: edt_wed + 0xa031a (?wed_wsf_parser_yyparse@@YAHPAVFlexLexer@@PAX@Z + 0x1fd3a)
+	</callstack>
+	<error>Current editor: RPW, WED, STED</error>
+	<date>Fri Nov 22 20:43:20 2024</date>
+	<version>Quartus II Version 9.0 Build 184 04/29/2009 Service Pack 1 SJ Web Edition</version>
+	<full_error>Access Violation at 0X6F422E74
+Current editor: RPW, WED, STED
+Quartus II Version 9.0 Build 184 04/29/2009 Service Pack 1 SJ Web Edition </full_error>
+</internal_error>
+

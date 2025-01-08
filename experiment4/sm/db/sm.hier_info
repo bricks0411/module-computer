@@ -1,0 +1,6 @@
+|sm
+clk => status.CLK
+sm_en => status.ENA
+sm <= status.DB_MAX_OUTPUT_PORT_TYPE
+
+

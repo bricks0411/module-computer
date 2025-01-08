@@ -1,0 +1,59 @@
+EDA Netlist Writer report for mux3_1
+Wed Nov 27 11:29:35 2024
+Quartus II Version 9.0 Build 184 04/29/2009 Service Pack 1 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. EDA Netlist Writer Summary
+  3. EDA Netlist Writer Messages
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2009 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++----------------------------------------------------------------------------------+
+; EDA Netlist Writer Summary                                                       ;
++---------------------------+------------------------------------------------------+
+; EDA Netlist Writer Status ; No Output Files Generated - Wed Nov 27 11:29:35 2024 ;
+; Revision Name             ; mux3_1                                               ;
+; Top-level Entity Name     ; mux3_1                                               ;
+; Family                    ; Cyclone II                                           ;
++---------------------------+------------------------------------------------------+
+
+
++-----------------------------+
+; EDA Netlist Writer Messages ;
++-----------------------------+
+Info: *******************************************************************
+Info: Running Quartus II EDA Netlist Writer
+    Info: Version 9.0 Build 184 04/29/2009 Service Pack 1 SJ Web Edition
+    Info: Processing started: Wed Nov 27 11:29:35 2024
+Info: Command: quartus_eda --read_settings_files=on --write_settings_files=off mux3_1 -c mux3_1
+Warning: Can't generate output files. Specify command-line options to generate output files, or update EDA tool settings using GUI or Tcl script.
+Info: Quartus II EDA Netlist Writer was successful. 0 errors, 1 warning
+    Info: Peak virtual memory: 171 megabytes
+    Info: Processing ended: Wed Nov 27 11:29:38 2024
+    Info: Elapsed time: 00:00:03
+    Info: Total CPU time (on all processors): 00:00:00
+
+
